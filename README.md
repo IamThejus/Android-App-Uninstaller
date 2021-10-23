@@ -7,7 +7,7 @@ This can be done by just connecting your phone to the computer.
 
 # How to use
 
-For running this program first you have enable usb.
+For running this program first you have enable usb debugging.
 Then run the program and type anything in the input,then your phone will ask for perssion ,allow it.
 Now your are ready to go.
 
